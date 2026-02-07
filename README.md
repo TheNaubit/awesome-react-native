@@ -6,7 +6,7 @@
   <p>
     <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome" /></a>
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg" alt="License" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
   </p>
 
   <p><strong>A curated list of awesome React Native libraries, tools, and resources.</strong></p>
@@ -356,4 +356,4 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 
 ## License
 
-[CC BY 4.0](LICENSE)
+[MIT](LICENSE)
