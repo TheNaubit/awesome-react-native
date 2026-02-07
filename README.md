@@ -6,19 +6,17 @@
   <p>
     <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome" /></a>
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-blue.svg" alt="License" /></a>
   </p>
 
   <p><strong>A curated list of awesome React Native libraries, tools, and resources.</strong></p>
   <p>Actively maintained. Contributions welcome.</p>
 </div>
 
----
-
 ## Contents
 
 - [Component Libraries](#component-libraries)
-- **UI Components**
+- [UI Components](#ui-components)
   - [Buttons & Actions](#buttons--actions)
   - [Cards & Containers](#cards--containers)
   - [Forms & Inputs](#forms--inputs)
@@ -67,14 +65,12 @@
 
 *Full design systems and UI kits with multiple components.*
 
-- [Dripsy](https://github.com/nandorojo/dripsy) - Responsive-first library built on Moti with Theme UI-inspired sx prop.
 - [Gluestack UI](https://github.com/gluestack/gluestack-ui) - Universal accessible components with Tailwind CSS support for React Native and Next.js.
 - [HeroUI Native](https://github.com/heroui-inc/heroui-native) - Beautiful, fast and modern React Native UI library with pre-built components.
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Accessible component library inspired by Material UI, Chakra UI, and Ant Design.
 - [React Native Elements](https://github.com/react-native-elements/react-native-elements) - Cross-platform UI toolkit with customizable components.
 - [React Native Paper](https://github.com/callstack/react-native-paper) - Cross-platform Material Design library with M3 support by Callstack.
 - [Tamagui](https://github.com/tamagui/tamagui) - Performance-focused UI kit with optimizing compiler that flattens component trees at build time.
-- [UI Kitten](https://github.com/akveo/react-native-ui-kitten) - Eva Design System implementation with runtime theme switching.
 
 ## UI Components
 
@@ -128,7 +124,7 @@
 
 ### Icons
 
-- [@expo/vector-icons](https://github.com/expo/vector-icons) - Built on react-native-vector-icons with FontAwesome, MaterialIcons, and more.
+- [Expo Vector Icons](https://github.com/expo/vector-icons) - Built on react-native-vector-icons with FontAwesome, MaterialIcons, and more.
 - [Lucide React Native](https://github.com/lucide-icons/lucide) - 1,500+ clean, scalable icons with tree-shaking support.
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable icon sets with full styling support.
 
@@ -172,7 +168,6 @@
 ## Styling & Theming
 
 - [NativeWind](https://github.com/nativewind/nativewind) - Tailwind CSS for React Native with universal styling support.
-- [Tamagui](https://github.com/tamagui/tamagui) - Universal design system with theme variables and compile-time style extraction.
 - [Unistyles](https://github.com/jpudysz/react-native-unistyles) - Low-level styling library with breakpoints, themes, and runtime style updates.
 - [Uniwind](https://uniwind.dev/) - Fast Tailwind CSS bindings for React Native with familiar web-based class syntax.
 
@@ -188,7 +183,6 @@
 
 - [axios](https://github.com/axios/axios) - Promise-based HTTP client with interceptors and request cancellation.
 - [SWR](https://github.com/vercel/swr) - React hooks for data fetching with stale-while-revalidate strategy.
-- [TanStack Query](https://github.com/TanStack/query) - Data fetching with caching, automatic refetching, and mutations.
 - [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs with TanStack Query integration.
 
 ## Storage & Database
@@ -266,14 +260,12 @@
 ## Developer Tools
 
 - [expo-dev-client](https://docs.expo.dev/develop/development-builds/introduction/) - Custom development builds with native module support.
-- [Flipper](https://github.com/facebook/flipper) - Desktop debugging platform with plugin architecture.
 - [Radon IDE](https://github.com/software-mansion/radon-ide) - VSCode extension turning your editor into a React Native IDE.
 - [React Native DevTools](https://reactnative.dev/docs/debugging) - Official debugger for React Native 0.76+.
 - [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting React Native apps without debug mode.
 
 ## Performance Monitoring & Analytics
 
-- [Firebase Analytics](https://github.com/invertase/react-native-firebase) - Analytics and performance monitoring by Google.
 - [PostHog](https://github.com/PostHog/posthog-react-native) - Product analytics with feature flags, session replay, and A/B testing.
 - [Sentry](https://github.com/getsentry/sentry-react-native) - Error tracking and performance monitoring with profiling support.
 
@@ -287,7 +279,7 @@
 - [Appwrite](https://github.com/appwrite/appwrite) - Self-hosted BaaS with auth, databases, storage, and functions.
 - [AWS Amplify](https://github.com/aws-amplify/amplify-js) - AWS cloud services integration for mobile and web apps.
 - [Convex](https://github.com/get-convex/convex-backend) - TypeScript-first backend with real-time data sync and serverless functions.
-- [Firebase](https://github.com/invertase/react-native-firebase) - Google's backend platform with Firestore, Auth, and Cloud Functions.
+- [React Native Firebase](https://github.com/invertase/react-native-firebase) - Firebase SDK with Firestore, Auth, Cloud Functions, analytics, and more.
 - [Supabase](https://github.com/supabase/supabase) - Open-source Firebase alternative built on PostgreSQL.
 
 ## OTA Updates
@@ -346,14 +338,8 @@
 ## Community
 
 - [React Native Communities](https://reactnative.dev/community/communities) - Official list of communities and resources.
-- [r/reactnative](https://www.reddit.com/r/reactnative/) - Reddit community for React Native developers.
-
----
+- [React Native subreddit](https://www.reddit.com/r/reactnative/) - Reddit community for React Native developers.
 
 ## Contributing
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first. All entries must be actively maintained and well-documented.
-
-## License
-
-[MIT](LICENSE)
