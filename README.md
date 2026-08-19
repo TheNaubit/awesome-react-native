@@ -207,6 +207,7 @@
 
 - [expo-camera](https://docs.expo.dev/versions/latest/sdk/camera/) - Camera library with photo and video recording support.
 - [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - High-performance camera with frame processors and real-time AI capabilities.
+- [PoseTracker](https://github.com/Movelytics/react-native-pose-estimation) - Human pose estimation SDK for iOS and Android, including Expo Go.
 
 ## Audio & Video
 
