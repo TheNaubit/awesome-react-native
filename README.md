@@ -68,6 +68,7 @@
 - [Gluestack UI](https://github.com/gluestack/gluestack-ui) - Universal accessible components with Tailwind CSS support for React Native and Next.js.
 - [HeroUI Native](https://github.com/heroui-inc/heroui-native) - Beautiful, fast and modern React Native UI library with pre-built components.
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Accessible component library inspired by Material UI, Chakra UI, and Ant Design.
+- [OTF UI Native](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-24-awesome-react-native-otf-ui) - A React Native component library for Expo with component names and design tokens shared with its web packages.
 - [React Native Elements](https://github.com/react-native-elements/react-native-elements) - Cross-platform UI toolkit with customizable components.
 - [React Native Paper](https://github.com/callstack/react-native-paper) - Cross-platform Material Design library with M3 support by Callstack.
 - [Tamagui](https://github.com/tamagui/tamagui) - Performance-focused UI kit with optimizing compiler that flattens component trees at build time.
