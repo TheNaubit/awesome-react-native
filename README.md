@@ -121,6 +121,7 @@
 - [expo-image](https://docs.expo.dev/versions/latest/sdk/image/) - High-performance image component with caching, placeholders, and transitions.
 - [expo-image-picker](https://docs.expo.dev/versions/latest/sdk/imagepicker/) - System UI for selecting images and videos with automatic permission handling.
 - [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - Native UI for media selection with cropping and resizing options.
+- [react-native-text-avatar](https://github.com/hicay/react-native-text-avatar) - Initials avatars with stable per-name colors, multiple shapes, and light/dark variants, with no native code.
 
 ### Icons
 
